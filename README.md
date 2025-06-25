@@ -63,7 +63,7 @@ Built a full-stack finance management web app for personal budgeting and trackin
 ---
 
 ## 📄 Resume
-[Download Resume (PDF)]("C:\Users\ZOHIYA\Desktop\ZOHIYASHABREEN_resume.pdf")
+[Download Resume (PDF)] ("C:\Users\ZOHIYA\Desktop\ZOHIYASHABREEN_resume.pdf")
 
 ---
 
